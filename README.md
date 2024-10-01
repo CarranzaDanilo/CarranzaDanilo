@@ -1,32 +1,34 @@
-👋 Welcome to My GitHub
-About Me
-I’m a passionate data professional with a strong background in technology, statistics, and engineering, focused on transforming complex data into valuable insights for informed decision-making. My mission is to leverage data analysis to develop business strategies and optimize processes, always striving for innovation and efficiency.
 
-🔍 Data Enthusiast: Specializing in data analysis for strategic decision-making.
+👋 Bienvenido a mi GitHub
 
-🛠️ Tech Stack: Skilled in Python, Power BI, FastAPI, and pandas, among others.
+Sobre mí
 
-🎯 Goal-Oriented: Committed to improving business processes and developing data-driven strategies.
+Soy un profesional apasionado por los datos con una sólida formación en tecnología, estadística e ingeniería, enfocado en transformar datos complejos en valiosos conocimientos para la toma de decisiones informadas. Mi misión es aprovechar el análisis de datos para desarrollar estrategias empresariales y optimizar procesos, siempre buscando la innovación y la eficiencia.
 
-🤝 Team Player: I believe in the power of collaboration to achieve common goals
+🔍 Entusiasta de los datos: Especializado en el análisis de datos para la toma de decisiones estratégicas.
 
-🌱 Lifelong Learner: Continuously adapting to new technologies and business challenges.
+🛠️ Stack tecnológico: Con experiencia en Python, Power BI, FastAPI y pandas, entre otros.
 
-Projects
-Here you will find some of the projects I’ve worked on, where I apply my expertise in data analytics, machine learning, and software development:
+🎯 Orientado a objetivos: Comprometido con la mejora de procesos empresariales y el desarrollo de estrategias basadas en datos.
 
-Movie Recommendation System
-A system based on machine learning that recommends movies based on genre and similarity scores.
+🤝 Trabajo en equipo: Creo en el poder de la colaboración para alcanzar metas comunes.
 
-Call Center Analysis Dashboard
-Developed a Power BI dashboard to track and analyze call center performance, focusing on call handling times and missed vs. attended calls.
+🌱 Aprendiz de por vida: Adaptándome continuamente a nuevas tecnologías y desafíos empresariales.
 
-Exploratory Data Analysis (EDA)
-Conducted in-depth EDA on movie datasets to uncover trends, outliers, and patterns, using tools like matplotlib and seaborn.
+Proyectos
+Aquí encontrarás algunos de los proyectos en los que he trabajado, donde aplico mi experiencia en análisis de datos, machine learning y desarrollo de software:
 
-Get in Touch
-Feel free to reach out if you'd like to collaborate on data-driven projects, discuss statistics, or share ideas on machine learning and process optimization!
+Sistema de recomendación de películas
+Un sistema basado en machine learning que recomienda películas según el género y la similitud de puntuaciones.
 
-📫 You can reach me via email at: danicarranza92@gmail.com
+Dashboard de análisis de un centro de llamadas
+Desarrollé un dashboard en Power BI para monitorear y analizar el rendimiento del centro de llamadas, centrándome en los tiempos de manejo de llamadas y las llamadas atendidas frente a las no atendidas.
 
+Análisis exploratorio de datos (EDA)
+Realicé un análisis exploratorio profundo de conjuntos de datos de películas para descubrir tendencias, valores atípicos y patrones, utilizando herramientas como matplotlib y seaborn.
+
+Contacto
+No dudes en ponerte en contacto si te gustaría colaborar en proyectos basados en datos, discutir sobre estadísticas o compartir ideas sobre machine learning y optimización de procesos.
+
+ 📫 Puedes contactarme a través de mi correo: danicarranza92@gmail.com
 
